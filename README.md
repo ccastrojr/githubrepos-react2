@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GitHub Repos 2.0 (see version 1 in https://github.com/ccastrojr/githubrepos-react) created with typescript.
 
 ## Available Scripts
 
